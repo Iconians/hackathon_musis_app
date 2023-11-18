@@ -1,0 +1,515 @@
+{
+  "Songs": [
+    {
+      "name": "Atomic",
+      "categories": "rock",
+      "author": "Blondie",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/O_WLw_0DFQQ?si=a3QLQWjILmeeZMKg"
+    },
+    {
+      "name": "Heart of Glass",
+      "categories": "rock",
+      "author": "Blondie",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/WGU_4-5RaxU?si=DGRzmUxlo0EbUGa9"
+    },
+    {
+      "name": "Every Breath You Take",
+      "categories": "rock",
+      "author": "The Police",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/OMOGaugKpzs?si=UzgGwZIOZkKabrq3"
+    },
+    {
+      "name": "Eye of the Tiger",
+      "categories": "rock",
+      "author": "Survivor",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/btPJPFnesV4?si=8m8iGUleXYyC3OMB"
+    },
+    {
+      "name": "I want to Know What Love Is",
+      "categories": "rock",
+      "author": "Foreigner",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/r3Pr1_v7hsw?si=e7k239bKpJspQ7nV"
+    },
+    {
+      "name": "Jump",
+      "categories": "rock",
+      "author": "Van Halen",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/SwYN7mTi6HM?si=OFue-YqTT33s4O5n"
+    },
+    {
+      "name": "with or without you",
+      "categories": "rock",
+      "author": "U2",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/ujNeHIo7oTE?si=4hpAybjPlUZz_BnL"
+    },
+    {
+      "name": "sweet child o mine",
+      "categories": "rock",
+      "author": "Guns N Roses",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/1w7OgIMMRc4?si=dTQPZywPkHr3Ysoq"
+    },
+    {
+      "name": "So Emotional",
+      "categories": "rock",
+      "author": "Whitney Houston",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/0YjSHbA6HQQ?si=7a55SyLzePYE_Sfa"
+    },
+    {
+      "name": "Endless Love",
+      "categories": "rock",
+      "author": "Diana Ross & Lionel Richie",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/7Bwwo7ctG10?si=Exh2fuqz1VBxESwM"
+    },
+    {
+      "name": "Centerfold",
+      "categories": "rock",
+      "author": "J. Geils Band",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/BqDjMZKf-wg?si=f4Q7rqYJ7OlgTVad"
+    },
+    {
+      "name": "Smells Like Teen Spirit",
+      "categories": "pop",
+      "author": "Nirvana",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/hTWKbfoikeg?si=BsAVMBIdqVkSwGSk"
+    },
+    {
+      "name": "Nuthin but a G thang",
+      "categories": "pop",
+      "author": "Dr. Dre & Snoop Dogg",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/O47WwdtbZBc?si=DnF11eubW43oaaxZ"
+    },
+    {
+      "name": "Juicy",
+      "categories": "pop",
+      "author": "Notorious B.I.G.",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/_JZom_gVfuw?si=DGCf9A_cXxXR6VzB"
+    },
+    {
+      "name": "Da Funk",
+      "categories": "pop",
+      "author": "Daft Punk",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/PwILkY9gRrc?si=Ie8ZHOmPXYd7Tva_"
+    },
+    {
+      "name": "Common People",
+      "categories": "pop",
+      "author": "Pulp",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/yuTMWgOduFM?si=EWph4VYcWzzUrVOM"
+    },
+    {
+      "name": "Glory Box",
+      "categories": "pop",
+      "author": "Portishead",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/4qQyUi4zfDs?si=XH_ZYUIkRKIGpCEo"
+    },
+    {
+      "name": "Beetlebum",
+      "categories": "pop",
+      "author": "Blur",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/WAXnqjUfal4?si=KVk1mP0Jc8lwKsg9"
+    },
+    {
+      "name": "unfinish Sympathy",
+      "categories": "pop",
+      "author": "Massive Attack",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/ZWmrfgj0MZI?si=4rbgEvFWiQzQofER"
+    },
+    {
+      "name": "Waterfalls",
+      "categories": "pop",
+      "author": "TLC",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/8WEtxJ4-sh4?si=aMRSg1I9Wi_CcTf3"
+    },
+    {
+      "name": "Bohemian Rhapsody",
+      "categories": "pop",
+      "author": "Queen",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/fJ9rUzIMcZQ?si=sxjZJCe4DoCqVvWC"
+    },
+    {
+      "name": "Stairway to Heaven",
+      "categories": "pop",
+      "author": "Led Zeppelin",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/QkF3oxziUI4?si=jEncQ5c6n0jBDAMN"
+    },
+    {
+      "name": "Dancing Queen",
+      "categories": "pop",
+      "author": "ABBA",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/xFrGuyw1V8s?si=FGJsV4NZnoxP6Phu"
+    },
+    {
+      "name": "Hotel California",
+      "categories": "pop",
+      "author": "Eagles",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/09839DpTctU?si=1jDSngYOr33vvySx"
+    },
+    {
+      "name": "Dream On",
+      "categories": "pop",
+      "author": "Aerosmith",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/89dGC8de0CA?si=_OmNJnw-xUHQ5TFU"
+    },
+    {
+      "name": "Imagine",
+      "categories": "pop",
+      "author": "John Lennon",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/ugrAo8wEPiI?si=06QMOcLtlK7xhKVs"
+    },
+    {
+      "name": "Barracuda",
+      "categories": "pop",
+      "author": "Heart",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/PeMvMNpvB5M?si=UR1PtMzBtq0zQ2B7"
+    },
+    {
+      "name": "Staying Alive",
+      "categories": "pop",
+      "author": "The Bee Gees",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/fNFzfwLM72c?si=aJ7yqsWJ9Effz53D"
+    },
+    {
+      "name": "Comfortably Numb",
+      "categories": "pop",
+      "author": "Pink Floyd",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/_FrOQC-zEog?si=wuxqWQnMDAAISkVt"
+    },
+    {
+      "name": "Wish You Were Here",
+      "categories": "rock",
+      "author": "Pink Floyd",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/IXdNnw99-Ic?si=nmqR392TGS-4w8bk"
+    },
+    {
+      "name": "Hey Jude",
+      "categories": "rock",
+      "author": "The Beatles",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/A_MjCqQoLLA?si=R-GRpwUjzwDn1sGQ"
+    },
+    {
+      "name": "Goldfinger",
+      "categories": "pop",
+      "author": "Shirley Bassey",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/zL0K_Zt3mf8?si=4Ahk5Nm8-ha7BNZ3"
+    },
+    {
+      "name": "I can't get no satisfaction",
+      "categories": "rock",
+      "author": "Rolling Stones",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/nrIPxlFzDi0?si=22tbGStXPGm2HBoU"
+    },
+    {
+      "name": "Like a Rolling Stone",
+      "categories": "rock",
+      "author": "Bob Dylan",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/IwOfCgkyEj0?si=fFVeYMaSf1C1EcXj"
+    },
+    {
+      "name": "A Day in the Life",
+      "categories": "rock",
+      "author": "The Beatles",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/usNsCeOV4GM?si=pMtF3aiWWw9TtF3n"
+    },
+    {
+      "name": "All along the Watchtower",
+      "categories": "rock",
+      "author": "Jimi Hendrix",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/TLV4_xaYynY?si=8q5fzmWvCM3sKKbj"
+    },
+    {
+      "name": "Light my Fire",
+      "categories": "rock",
+      "author": "The Doors",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/_g_tuOS-iZ4?si=U1CTjdQYKTfkEV5c"
+    },
+    {
+      "name": "Paint it Black",
+      "categories": "rock",
+      "author": "Rolling Stones",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/O4irXQhgMqg?si=nJYmxhde3B0MVY4O"
+    },
+    {
+      "name": "The Sound of Silence",
+      "categories": "pop",
+      "author": "Simon & Garfunkel",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/nkUOACGtGfA?si=R1wXthnSY5UzQxme"
+    },
+    {
+      "name": "Gimmee Shelter",
+      "categories": "rock",
+      "author": "Rolling Stones",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/RbmS3tQJ7Os?si=2JDDognqAZa25g-F"
+    },
+    {
+      "name": "Yeh Yeh",
+      "categories": "jazz",
+      "author": "Georgie Fame & The Blue Flames",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/RdrdN1PFa-U?si=E5j7_eDlBADDE9tg"
+    },
+    {
+      "name": "The Girl from Ipanema",
+      "categories": "jazz",
+      "author": "Stan Getz & Joao Gilberto",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/c5QfXjsoNe4?si=kFMGd7onkv1d-hDm"
+    },
+    {
+      "name": "Stepping Stones: Live at the Village Vanguard",
+      "categories": "jazz",
+      "author": "Woody Shaw",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/N1xBPl72u8A?si=UjShbtB_6OTBxymq"
+    },
+    {
+      "name": "The Afro-Eurasian Eclipse",
+      "categories": "jazz",
+      "author": "Duke Ellington",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/rUwzUwlSnhs?si=0hnF8iDs4MSCk8tE"
+    },
+    {
+      "name": "Wave",
+      "categories": "jazz",
+      "author": "Ahmad Jamal",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/Xz7FI5D6tNY?si=GO0Z56CY0cyem3sj"
+    },
+    {
+      "name": "Sophisticated Lady",
+      "categories": "jazz",
+      "author": "Jacob Pastorius",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/__WTZNkU06A?si=c0C2gP8brGYbcdDH"
+    },
+    {
+      "name": "I'm old fashioned",
+      "categories": "jazz",
+      "author": "Tommie Flanagan",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/VHpX-raSgSA?si=Ipbq4kXzFV-2e3Oc"
+    },
+    {
+      "name": "Softly as in a Morning Sunrise",
+      "categories": "jazz",
+      "author": "Hank Jones, Mads Vinding, Billy Hart",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/A1eBXhZZFJc?si=8Ngi8UrgC4OBf4CV"
+    },
+    {
+      "name": "Rapper's Delight",
+      "categories": "rap",
+      "author": "The Sugarhill Gang",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/mcCK99wHrk0?si=u_hpX50Lj01NIk2S"
+    },
+    {
+      "name": "Superrappin",
+      "categories": "rap",
+      "author": "Grandmaster Flash & The Furious Five",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/Up8zxybJNHQ?si=TzTwqX8Z3CIm2Hfg"
+    },
+    {
+      "name": "King Tim III (Personality Jock)",
+      "categories": "rap",
+      "author": "The Fatback Band",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/ojQqAnlrW_M?si=FMRiUYM90ahbFiaI"
+    },
+    {
+      "name": "the Breaks",
+      "categories": "rap",
+      "author": "Kurtis Blow",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/5ZDUEilS5M4?si=E9cVHWFv-O1VRYEI"
+    },
+    {
+      "name": "Boyz in the Hood",
+      "categories": "rap",
+      "author": "Eazy-E",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/PIU07K_28ck?si=0x7UbwR-3Cd2cyW4"
+    },
+    {
+      "name": "Express Yourself",
+      "categories": "rap",
+      "author": "N.W.A.",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/u31FO_4d9TY?si=XREEBTXK9nqhNt-L"
+    },
+    {
+      "name": "U.N.I.T.Y.",
+      "categories": "Rap",
+      "author": "Queen Latifah",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/f8cHxydDb7o?si=GR37T8DnBJN4OJ5O"
+    },
+    {
+      "name": "'Passin' Me By",
+      "categories": "Rap",
+      "author": "The Pharcyde",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/a-mAK3uB2_0?si=-PzDXKHpIQMJhf3D"
+    },
+    {
+      "name": "I Wanna Be Sedated",
+      "categories": "punk",
+      "author": "The Ramones",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/bm51ihfi1p4?si=0EzweM1hYRE_kFkM"
+    },
+    {
+      "name": "Ever Fallen in Love",
+      "categories": "punk",
+      "author": "The Buzzcocks",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/51OB2YoC4sg?si=8H-iN38rpI3-6HDr"
+    },
+    {
+      "name": "Search and Destroy",
+      "categories": "punk",
+      "author": "The Stooges",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/N0JaUjpu3Lo?si=aRhDJvJkzNE_C3v0"
+    },
+    {
+      "name": "Holiday in Cambodia",
+      "categories": "punk",
+      "author": "Dead Kennedys",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/nrm2B0lhvYc?si=pPgQXnLYQs3mS4r-"
+    },
+    {
+      "name": "Clampdown / The Guns of Brixton",
+      "categories": "punk",
+      "author": "The Clash",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/JcW8VNwYvL0?si=d4kmkoISdDmRjtTA"
+    },
+    {
+      "name": "Kill the Poor/ in Sight",
+      "categories": "punk",
+      "author": "Dead Kennedys",
+      "decade": "1980s",
+      "url": "https://www.youtube.com/embed/sgpa7wEAz7I?si=D7n4Jp18xN8Do3tZ"
+    },
+    {
+      "name": "Bro Hymn",
+      "categories": "punk",
+      "author": "Pennywise",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/_n8TuSVmOrw?si=tpsqPoREAfuxqY6U"
+    },
+    {
+      "name": "Give em the Boot",
+      "categories": "punk",
+      "author": "Rancid",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/fA49_ReM78o?si=nahb93ia4t7B1cmi"
+    },
+    {
+      "name": "Basket Case",
+      "categories": "punk",
+      "author": "Green Day",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/NUTGr5t3MoY?si=BB7fI6yIt4TRv9se"
+    },
+    {
+      "name": "Pli selon pli: No. 5",
+      "categories": "classical",
+      "author": "Tombeau",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/FSDi2mpst9U?si=-ehgwvglOORTvw98"
+    },
+    {
+      "name": "King of the Road",
+      "categories": "classical",
+      "author": "Roger Miller",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/WrhAC0dFis0?si=xhqy87_dkj0OG2Dh"
+    },
+    {
+      "name": "Rhinestone Cowboy",
+      "categories": "classical",
+      "author": "Glen Campbell",
+      "decade": "1970s",
+      "url": "https://www.youtube.com/embed/8kAU3B9Pi_U?si=wg-C-1ig6nTp2yXK"
+    },
+    {
+      "name": "Take Me Home, Country Roads",
+      "categories": "classical",
+      "author": "John Denver",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/Wh2kwpnQu6c?si=PAOlT3CmFxY5WNkz"
+    },
+    {
+      "name": "Mama Tried",
+      "categories": "classical",
+      "author": "Roger Miller",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/ppEfGIGVteo?si=rV5XJkfxrF3TT0i7"
+    },
+    {
+      "name": "North to Alaska",
+      "categories": "classical",
+      "author": "Johnny Horton",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/BLONWy46gIE?si=u_7zcC2KWjifGqc7"
+    },
+    {
+      "name": "Saginaw Michigan",
+      "categories": "classical",
+      "author": "Lefty Frizzell",
+      "decade": "1960s",
+      "url": "https://www.youtube.com/embed/udvpVJqy7iw?si=p2fa_qQrJ0QjgNak"
+    },
+    {
+      "name": "The Auctioneer",
+      "categories": "classical",
+      "author": "Leroy Van Dyke",
+      "decade": "1990s",
+      "url": "https://www.youtube.com/embed/pPqzfiesoJY?si=3CaWJuDP-R7aWT5T"
+    }
+  ]
+}

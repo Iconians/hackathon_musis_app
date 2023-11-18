@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=IBM+Plex+Mono:wght@200;300;400;500;700&display=swap");
+/* font family IBM */
+
+* {
+  font-family: "IBM Plex Mono";
+}
+
+body {
+  /* max-width: 300px; */
+  /* border: 1px solid black; */
+  margin-left: auto;
+  margin-right: auto;
+  background: linear-gradient(#ff7c01, #e4ba00);
+  min-height: 88vh;
+}
+
+/* browse title */
+.browse-title,
+.genres-title,
+.recommend-title {
+  color: #272727;
+  text-shadow: 3px 3px 1px white;
+}
+
+.recommend-title,
+.genres-title {
+  font-size: 1.7rem;
+}
+
+.buttons-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  box-shadow: 5px 5px 0px #272727;
+}
+
+.btn-1960 {
+  background-image: url("https://www.nme.com/wp-content/uploads/2016/12/BeachBoysweekendsocial.jpg");
+  background-size: cover;
+}
+
+.btn-1970 {
+  background-image: url("https://media.cnn.com/api/v1/images/stellar/prod/150723103943-09-70s-music-restricted.jpg?q=w_3000,h_1687,x_0,y_0,c_fill/h_778");
+  background-size: cover;
+}
+
+.btn-1980 {
+  background-image: url("https://cdn4.whatculture.com/images/2016/04/51fa0cf7af02-600x338.jpg");
+  background-size: cover;
+}
+
+.btn-1990 {
+  background-image: url("https://singersroom.com/wp-content/uploads/2023/03/Famous-Singers-of-the-1990s.jpg");
+  background-size: cover;
+}
+
+.category-container {
+  display: none;
+}
+
+.category-container.active {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.decade-button {
+  margin: 12px;
+  min-width: 100px;
+  min-height: 120px;
+  background-color: rgb(35, 35, 35);
+  color: white;
+  font-weight: 900;
+  text-shadow: 2px -2px 0px rgba(0,0,0,0.58);
+
+}
+
+.recommended-button {
+  width: 100%;
+  height: 200px;
+  background-color: lightgray;
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255)
+}
+
+.recom-1 {
+  background-image: url("https://no-taste.com/wp-content/uploads/2019/12/Motley-Crue.jpg");
+  background-size: cover;
+}
+
+.recom-2 {
+  background-image: url("https://m.media-amazon.com/images/I/510ue02EPQL._UF1000,1000_QL80_.jpg");
+  background-size: cover;
+}
+
+.recom-3 {
+  background-image: url("https://www.covermesongs.com/wp-content/uploads/2020/10/Dont-You-Forget-About-Me.png");
+  background-size: cover;
+}
+
+.recom-4 {
+  background-image: url("https://i1.sndcdn.com/artworks-000581876315-xv6f3a-t500x500.jpg");
+  background-size: cover;
+}
+
+.recom-5 {
+  background-image: url("https://m.media-amazon.com/images/M/MV5BZjBiNTIzM2UtNjRkYi00N2RlLTk0YzEtMTAxMDFmNGQ2NmNiXkEyXkFqcGdeQXVyMTYyNjM5MTA@._V1_.jpg");
+  background-size: cover;
+}
+
+.recom-6 {
+  background-image: url("https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/16/23/62/16236216-ef7c-ac22-c41d-9804a395648d/886447077184.jpg/1200x1200bf-60.jpg");
+  background-size: cover;
+}
+
+.search-bar {
+  display: flex;
+  padding: 5px;
+  border-radius: 0px;
+  justify-content: left;
+  align-items: center;
+}
+
+.magnifying-glass {
+  padding: 0 10px;
+}
+
+.search-input {
+  height: 30px;
+  width: 100%;
+}
+
+.search-button-container {
+  display: flex;
+  justify-content: center;
+}
+
+.search-button {
+  width: 100px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 20px;
+  color: black;
+  font-weight: 900;
+}
+
+.flexbox {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.category-list {
+  margin: 5px 20px;
+}

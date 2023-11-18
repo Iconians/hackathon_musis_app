@@ -1,0 +1,15 @@
+.back-to-home-button {
+   border-radius: 20px;
+   margin-top: 10px;
+   
+}
+
+.flexbox {
+   display: flex;
+   justify-content: center;
+}
+
+.search-title {
+  margin-left: calc(50vw - 50px);
+  
+}
