@@ -33,10 +33,14 @@ const RetroBeats = ({
   };
 
   const handleSubmit = () => {
-    setDecade(activeDecade);
-    setCategories(selectedCategories);
-    changePage(1);
-    setReturnState("Search Results");
+    if (selectedCategories.length > 0) {
+      setDecade(activeDecade);
+      setCategories(selectedCategories);
+      changePage(1);
+      setReturnState("Search Results");
+    } else {
+      return;
+    }
   };
 
   const decadeTimes = [1960, 1970, 1980, 1990];
