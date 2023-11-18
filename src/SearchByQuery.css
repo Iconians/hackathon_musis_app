@@ -1,4 +1,10 @@
 .flexbox {
    display: flex;
    justify-content: center;
+   margin-top: 10px;
+}
+
+.back-to-home-button {
+   border-radius: 20px;
+   margin-top: 10px;
 }

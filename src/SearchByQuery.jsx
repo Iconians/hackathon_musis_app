@@ -1,3 +1,5 @@
+import "./SearchByQuery.css";
+
 function SearchByQuery({
   searchQueryResults,
   setPageNumber,
@@ -8,7 +10,10 @@ function SearchByQuery({
 }) {
   return (
     <>
-      <button onClick={() => setPageNumber(0)}>Back to Home</button>
+      <div className="flexbox">
+        <button onClick={() => setPageNumber(0)}>Back to Home</button>
+      </div>
+
       <p>{`Search Results for: "${searchQuery}"`}</p>
       <div className="flexbox">
         {searchQueryResults.map((item) => (
