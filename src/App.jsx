@@ -6,6 +6,8 @@ import SearchByQuery from "./SearchByQuery";
 import SongInfo from "./SongInfo";
 import { getSongs } from "./getSongs";
 
+// functional app
+
 function App() {
   const [pageNumber, setPageNumber] = useState(0);
   const [decade, setDecade] = useState("");
